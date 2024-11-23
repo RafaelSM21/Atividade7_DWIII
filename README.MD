@@ -50,7 +50,7 @@ Este projeto é uma aplicação para gerenciar despesas pessoais, permitindo que
 
 ### Passos
 1. Clone o repositório:
-   git clone https://github.com/seu-usuario/controle-de-despesas.git
+   git clone https://github.com/RafaelSM21/Atividade7_DWIII.git
    cd controle-de-despesas
 
 2. Instale as dependências:
