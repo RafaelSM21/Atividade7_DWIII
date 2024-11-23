@@ -10,4 +10,4 @@ Tendo isso em mente, para rodar a aplicação no terminal, siga esses passos:
 
 2. Escrever o comando "npm run dev" para iniciar a conexão com o MongoDB
 
-3. no navegador digitar "http://localhost:3000/" para testar a alpicação 
+3. no navegador digitar "http://localhost:3000/" para testar a aplicação 
