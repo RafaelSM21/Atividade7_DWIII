@@ -50,8 +50,8 @@ Este projeto é uma aplicação para gerenciar despesas pessoais, permitindo que
 
 ### Passos
 1. Clone o repositório:
-   git clone https://github.com/RafaelSM21/Atividade7_DWIII.git
-   cd Atividade7_DWIII
+   - git clone https://github.com/RafaelSM21/Atividade7_DWIII.git
+   - cd Atividade7_DWIII
 
 2. Instale as dependências:
    npm install
