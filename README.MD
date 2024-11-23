@@ -1,6 +1,6 @@
 Para rodar a aplicação, é necessário:
 
-a) ter node.js
+a) Ter node.js
 
 b) Ter o MongoDB, mongoose e o MongoDBCompass instalados
 
