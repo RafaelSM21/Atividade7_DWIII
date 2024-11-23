@@ -81,6 +81,3 @@ Exclui uma despesa pelo ID.
 
 ### 5. GET /expenses/total
 Retorna o somatório do valor de todas as despesas.
-
-## 🧑‍💻 Autor
-Desenvolvido por **Rafael**. Caso tenha dúvidas ou sugestões, entre em contato!
