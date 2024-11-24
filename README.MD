@@ -33,6 +33,7 @@ Este projeto é uma aplicação para gerenciar despesas pessoais, permitindo que
 ## 📁 Estrutura do Projeto
 | Pasta                    | Definição                                                                                  |
 | ------------------------ | ------------------------------------------------------------------------------------------ |
+| 📁 public/                   | Frontend para rodar o projeto                                                 |
 | 📁 src/                   | Arquivos com o código fonte do projeto                                                     |
 | 📁 src/controllers/        | Contém a lógica de controle para o backend                                            |
 | 📁 src/models/             | Modelos Mongoose para o banco de dados                                     |
